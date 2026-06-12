@@ -1,0 +1,107 @@
+# Privacy Policy for Starlight Actor Life Sim
+
+Last Updated: June 2026
+
+SoftForge Ventures ("we", "our", or "us") operates Starlight Actor Life Sim.
+
+This Privacy Policy explains how we collect, use, and protect information when you use our game.
+
+## Information We Collect
+
+### Information You Provide
+
+We may collect information you voluntarily provide, including:
+
+* Support requests sent by email
+* Feedback submitted through our community channels
+* Information provided when contacting customer support
+
+### Automatically Collected Information
+
+Depending on the version of the game and platform services used, we may collect:
+
+* Device type
+* Operating system version
+* App version
+* Crash reports
+* Performance and diagnostic data
+
+### In-App Purchases
+
+Purchases are processed by Apple App Store and Google Play. We do not collect or store your payment information.
+
+## How We Use Information
+
+We may use collected information to:
+
+* Provide and improve the game
+* Fix bugs and technical issues
+* Respond to support requests
+* Analyze game performance
+* Prevent fraud and abuse
+
+## Data Sharing
+
+We do not sell personal information.
+
+We may share information with trusted service providers used to operate the game, including:
+
+* Apple App Store
+* Google Play
+* RevenueCat
+* Analytics and crash reporting services
+
+These providers process data according to their own privacy policies.
+
+## Data Retention
+
+We retain information only as long as necessary to provide services, comply with legal obligations, resolve disputes, and enforce our agreements.
+
+## Children's Privacy
+
+Starlight Actor Life Sim is not directed toward children under the age of 13.
+
+We do not knowingly collect personal information from children under 13.
+
+If you believe a child has provided personal information, please contact us so that we can remove the information.
+
+## Security
+
+We take reasonable measures to protect information from unauthorized access, disclosure, alteration, or destruction.
+
+However, no method of transmission or storage is completely secure.
+
+## Your Rights
+
+Depending on your jurisdiction, you may have rights regarding your personal information, including:
+
+* Access
+* Correction
+* Deletion
+* Restriction of processing
+
+To exercise these rights, contact us using the information below.
+
+## Third-Party Services
+
+The game may use third-party services, including:
+
+* Apple App Store
+* Google Play Services
+* RevenueCat
+
+These services have their own privacy policies.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+
+Any changes will be posted on this page with an updated revision date.
+
+## Contact Us
+
+SoftForge Ventures
+
+Email: [support@softforgeventures.com](mailto:support@softforgeventures.com)
+
+For privacy-related questions, please contact us at the email above.
